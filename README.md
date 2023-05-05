@@ -8,4 +8,4 @@
 #
 By completing the above tasks the following was the result:
 
-![gif](https://github.com/DishaJr/Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles/blob/main/ezgif.com-video-to-gif%20(1).gif)
+![gif](https://github.com/DishaJr/Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles/blob/main/ezgif.com-video-to-gif%20(2).gif)
